@@ -1,3 +1,2 @@
 joblib==0.17.0
-Flask==1.1.2
-scikit-learn==0.22.1
+streamlit==0.73.1
